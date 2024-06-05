@@ -17,7 +17,7 @@ func main() {
 				<title>Colorful Sample Website</title>
 			</head>
 			<body>
-				<h1 style="color: blue;">Welcome to the Colorful Sample Website for sudhan!</h1>
+				<h1 style="color: blue;">Welcome to the Colorful Sample Website for Tej!</h1>
 				<p style="color: green;">This is a simple example of a colorful website served by a Go web application.</p>
 				<p style="color: red;">Enjoy the colors!</p>
 			</body>
